@@ -1,1 +1,1 @@
-# OpenResearchSystem
+# Open Research System
